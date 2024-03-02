@@ -5,6 +5,9 @@ ChatGPT-EG is a Flutter application that simulates a chat experience with an AI,
 ## Features
 
 - **Chat Interface**: Engage in conversations with an AI modeled after OpenAI's GPT.
+- **Chat Interface**: Engage in conversations with an AI modeled after OpenAI's GPT.
+- **Integrated With https://api.openai.com/v1 Api**: Ai Api
+- **Integrated With https://api.elevenlabs.io/v1/text-to-speech Api**:Convert spoken words into text messages for seamless communication.
 - **Speech-to-Text**: Convert spoken words into text messages for seamless communication.
 - **Text-to-Speech**: Listen to AI responses in natural-sounding speech.
 - **AI Image Generation**: Generate AI-based images for various purposes within the app.
