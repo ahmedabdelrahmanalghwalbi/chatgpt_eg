@@ -66,4 +66,4 @@ Contributions are welcome! If you have suggestions or find any issues, please op
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Make sure to replace placeholders like `BASEURL`, `CHATGPTAPIKEY`, `ELEVENLABSAPIBASEURL`, and `ELEVENLABSAPIBASEURLkey` with actual values or remove them if they're not meant to be public. Additionally, provide information about how to obtain and use API keys in your README.
+Make sure to replace placeholders like `BASEURL`, `CHATGPTAPIKEY`, `ELEVENLABSAPIBASEURL`, and `ELEVENLABSAPIBASEURLkey` with actual values .
